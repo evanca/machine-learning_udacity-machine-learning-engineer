@@ -144,7 +144,7 @@ if __name__ == '__main__':
     model = BinaryClassifier(args.input_features, args.hidden_dim, args.output_dim).to(device)
 
     ## DONE: Define an optimizer and loss function for training
-    optimizer = optim.Adam(model.parameters(), lr=0.0001)
+    optimizer = optim.Adam(model.parameters(), lr=0.001)
     criterion = nn.BCELoss()
 
     # Trains the model (given line of code, which calls the above training function)
