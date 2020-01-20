@@ -5,3 +5,11 @@
 042_creating a sentiment analysis web app/udacity/report.html
 042_creating a sentiment analysis web app/udacity/SageMaker Project.ipynb
 042_creating a sentiment analysis web app/udacity/train.py
+050_project plagiarism detector/udacity.zip
+050_project plagiarism detector/udacity/2_Plagiarism_Feature_Engineering.ipynb
+050_project plagiarism detector/udacity/3_Training_a_Model.ipynb
+050_project plagiarism detector/udacity/helpers.py
+050_project plagiarism detector/udacity/problem_unittests.py
+050_project plagiarism detector/udacity/source_pytorch/model.py
+050_project plagiarism detector/udacity/source_pytorch/predict.py
+050_project plagiarism detector/udacity/source_pytorch/train.py
